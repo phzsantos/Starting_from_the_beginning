@@ -8,9 +8,6 @@ Numeros : Vetor [0..9] de Real
 
 Inicio
 
-MaiorNumero <- 0
-PosicaoDoMaiorNumero <- 0
-
 Escreva("Quantos numeros você vai digitar? ")
 Leia(N)
 
@@ -19,8 +16,11 @@ Para I de 0 ate (N-1) Faca
      Leia(Numeros[I])
 FimPara
 
-Para I de 0 ate (N-1) Faca
-     Se ((Numeros[I] > Numeros[I+1]) e (Numeros[I] > MaiorNumero)) Entao
+MaiorNumero <- Numeros[0]
+PosicaoDoMaiorNumero <- 0
+
+Para I de 1 ate (N-1) Faca
+     Se (Numeros[I] > MaiorNumero) Entao
          MaiorNumero <- Numeros[I]
          PosicaoDoMaiorNumero <- I
      FimSe
