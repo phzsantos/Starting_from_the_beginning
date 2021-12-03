@@ -1,0 +1,15 @@
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\bin\Debug\net6.0\00 - Processamento de dados e casting.exe
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\bin\Debug\net6.0\00 - Processamento de dados e casting.deps.json
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\bin\Debug\net6.0\00 - Processamento de dados e casting.runtimeconfig.json
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\bin\Debug\net6.0\00 - Processamento de dados e casting.dll
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\bin\Debug\net6.0\ref\00 - Processamento de dados e casting.dll
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\bin\Debug\net6.0\00 - Processamento de dados e casting.pdb
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.csproj.AssemblyReference.cache
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.AssemblyInfoInputs.cache
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.AssemblyInfo.cs
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.csproj.CoreCompileInputs.cache
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.dll
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\ref\00 - Processamento de dados e casting.dll
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.pdb
+C:\Users\C#\Documents\C#\00 - Processamento de dados e casting\00 - Processamento de dados e casting\obj\Debug\net6.0\00 - Processamento de dados e casting.genruntimeconfig.cache

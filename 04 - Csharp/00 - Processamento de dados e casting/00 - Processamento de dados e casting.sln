@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 - Processamento de dados e casting", "00 - Processamento de dados e casting\00 - Processamento de dados e casting.csproj", "{200EFDA4-A3BB-46ED-B3F0-747F99867477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200EFDA4-A3BB-46ED-B3F0-747F99867477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200EFDA4-A3BB-46ED-B3F0-747F99867477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200EFDA4-A3BB-46ED-B3F0-747F99867477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200EFDA4-A3BB-46ED-B3F0-747F99867477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A0883D-CAF7-4297-9961-7ACBEC1321C9}
+	EndGlobalSection
+EndGlobal
