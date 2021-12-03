@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "beda64f5-b437-491c-8ae8-36cca418c49b": {
+      "ProjectGuid": "beda64f5-b437-491c-8ae8-36cca418c49b",
+      "DisplayName": "00 - Saida de dados",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
