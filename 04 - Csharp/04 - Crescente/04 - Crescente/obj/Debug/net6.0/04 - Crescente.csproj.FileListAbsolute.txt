@@ -1,0 +1,15 @@
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\bin\Debug\net6.0\04 - Crescente.exe
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\bin\Debug\net6.0\04 - Crescente.deps.json
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\bin\Debug\net6.0\04 - Crescente.runtimeconfig.json
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\bin\Debug\net6.0\04 - Crescente.dll
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\bin\Debug\net6.0\ref\04 - Crescente.dll
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\bin\Debug\net6.0\04 - Crescente.pdb
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.csproj.AssemblyReference.cache
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.AssemblyInfoInputs.cache
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.AssemblyInfo.cs
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.csproj.CoreCompileInputs.cache
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.dll
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\ref\04 - Crescente.dll
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.pdb
+C:\Users\C#\Documents\C#\04 - Crescente\04 - Crescente\obj\Debug\net6.0\04 - Crescente.genruntimeconfig.cache

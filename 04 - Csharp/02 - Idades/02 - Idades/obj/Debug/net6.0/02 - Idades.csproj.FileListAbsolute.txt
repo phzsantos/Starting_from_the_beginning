@@ -1,0 +1,15 @@
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\bin\Debug\net6.0\02 - Idades.exe
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\bin\Debug\net6.0\02 - Idades.deps.json
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\bin\Debug\net6.0\02 - Idades.runtimeconfig.json
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\bin\Debug\net6.0\02 - Idades.dll
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\bin\Debug\net6.0\ref\02 - Idades.dll
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\bin\Debug\net6.0\02 - Idades.pdb
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.csproj.AssemblyReference.cache
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.AssemblyInfoInputs.cache
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.AssemblyInfo.cs
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.csproj.CoreCompileInputs.cache
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.dll
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\ref\02 - Idades.dll
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.pdb
+C:\Users\C#\Documents\C#\02 - Idades\02 - Idades\obj\Debug\net6.0\02 - Idades.genruntimeconfig.cache

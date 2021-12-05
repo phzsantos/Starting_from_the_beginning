@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47aaa1f7-d4ff-4a71-9f7b-d408acde0803": {
+      "ProjectGuid": "47aaa1f7-d4ff-4a71-9f7b-d408acde0803",
+      "DisplayName": "05 - Soma impares",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
