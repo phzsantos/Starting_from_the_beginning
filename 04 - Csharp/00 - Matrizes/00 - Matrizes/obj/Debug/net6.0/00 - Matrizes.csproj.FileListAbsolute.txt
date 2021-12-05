@@ -1,0 +1,15 @@
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\bin\Debug\net6.0\00 - Matrizes.exe
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\bin\Debug\net6.0\00 - Matrizes.deps.json
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\bin\Debug\net6.0\00 - Matrizes.runtimeconfig.json
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\bin\Debug\net6.0\00 - Matrizes.dll
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\bin\Debug\net6.0\ref\00 - Matrizes.dll
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\bin\Debug\net6.0\00 - Matrizes.pdb
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.csproj.AssemblyReference.cache
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.AssemblyInfo.cs
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.dll
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\ref\00 - Matrizes.dll
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.pdb
+C:\Users\C#\Documents\C#\00 - Matrizes\00 - Matrizes\obj\Debug\net6.0\00 - Matrizes.genruntimeconfig.cache
